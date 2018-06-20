@@ -1,0 +1,17 @@
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\libhostpolicy.so
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\libhostfxr.so
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\web1
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\web1.deps.json
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\web1.runtimeconfig.json
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\web1.runtimeconfig.dev.json
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\web1.dll
+C:\Git\Bigsby\pi\dotnet\web1\bin\Debug\netcoreapp2.1\linux-arm\web1.pdb
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.csprojAssemblyReference.cache
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.csproj.CoreCompileInputs.cache
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.RazorAssemblyInfo.cache
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.RazorAssemblyInfo.cs
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.AssemblyInfoInputs.cache
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.AssemblyInfo.cs
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.RazorTargetAssemblyInfo.cache
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.dll
+C:\Git\Bigsby\pi\dotnet\web1\obj\Debug\netcoreapp2.1\linux-arm\web1.pdb
